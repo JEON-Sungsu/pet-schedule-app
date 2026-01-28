@@ -43,6 +43,13 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
-    }
+    },
+    "extra": {
+      "appEnv": "development",
+      "eas": {
+        "projectId": "9dd0a17a-43fa-4aec-9025-d96bf755f2f0"
+      }
+    },
+    "owner": "howardj"
   }
 }
