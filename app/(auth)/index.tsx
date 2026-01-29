@@ -1,12 +1,10 @@
-import { SafeAreaView, StyleSheet, Text, View } from 'react-native';
+import { StyleSheet, Text, View } from 'react-native';
 
 function AuthScreen() {
   return (
-    <SafeAreaView style={styles.container}>
-      <View>
-        <Text>Authentication Screen</Text>
-      </View>
-    </SafeAreaView>
+    <View style={styles.container}>
+      <Text>Authentication Screen</Text>
+    </View>
   );
 }
 
